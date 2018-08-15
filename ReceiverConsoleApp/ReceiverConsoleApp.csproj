@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C2788ECF-F7DD-4EF3-B1F4-893930FAFF70}</ProjectGuid>
+    <ProjectGuid>{F9DB8E7D-428E-498B-87F9-DA21F6BEF71E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NotifierConsoleApp</RootNamespace>
-    <AssemblyName>NotifierConsoleApp</AssemblyName>
+    <RootNamespace>ReceiverConsoleApp</RootNamespace>
+    <AssemblyName>ReceiverConsoleApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

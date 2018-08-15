@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotifierConsoleApp", "NotifierConsoleApp\NotifierConsoleApp.csproj", "{C2788ECF-F7DD-4EF3-B1F4-893930FAFF70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiverConsoleApp", "ReceiverConsoleApp\ReceiverConsoleApp.csproj", "{F9DB8E7D-428E-498B-87F9-DA21F6BEF71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageService", "StorageService\StorageService.csproj", "{111274F6-8F81-4567-B6EF-36B431DBEE9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C2788ECF-F7DD-4EF3-B1F4-893930FAFF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2788ECF-F7DD-4EF3-B1F4-893930FAFF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2788ECF-F7DD-4EF3-B1F4-893930FAFF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DB8E7D-428E-498B-87F9-DA21F6BEF71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DB8E7D-428E-498B-87F9-DA21F6BEF71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DB8E7D-428E-498B-87F9-DA21F6BEF71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DB8E7D-428E-498B-87F9-DA21F6BEF71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111274F6-8F81-4567-B6EF-36B431DBEE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111274F6-8F81-4567-B6EF-36B431DBEE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111274F6-8F81-4567-B6EF-36B431DBEE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111274F6-8F81-4567-B6EF-36B431DBEE9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
